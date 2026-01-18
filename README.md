@@ -54,6 +54,8 @@ The analysis helps understand sales performance across retailers, beverage brand
   - Brand-wise sales analysis
   - Quarterly profit and margin trends
   - State-wise units sold (map view)
+## 📷 Dashboard Preview
+![Excel Dashboard](screenshots/excel_dashboard_overview.png)
 
 ---
 
